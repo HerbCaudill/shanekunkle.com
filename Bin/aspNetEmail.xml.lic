@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<license version="1.1">
+  <Customer>
+    <name>advancedintellect-2423
+Herb Caudill   (Caudill, Herb)
+734 15th Street NW
+10th Floor
+Washington, DC	 20005
+US United States
+202.347.5526
+support@caudillweb.com
+num:1</name>
+  </Customer>
+  <products>
+    <Product>
+      <name>aspNetEmail</name>
+      <version>3</version>
+      <licensetype>server</licensetype>
+      <expires>-1</expires>
+    </Product>
+  </products>
+  <LicenseInformation>
+    <Version>1.1</Version>
+    <H1>0</H1>
+    <H2>AougmEFVtrT0SNTdpE//Uw==</H2>
+  </LicenseInformation>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>LS31vLIwicMfFgG/kLnFoNaJZp0=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>L7dqifgJiP2FpawCw3ONdh9YEcC4Aw1P6xFEksTGmF+dHtyo+q+MrWp/6SNVxJs4eX8TMYYapGW6nr4/RCS73uSH22VdSJLbAf0WrUYPCUUXZweNcAGB9yy7caWlkM/gGOMwf6i3GTABEuGWkTEVDukp6Qxi5vZ86xkhwGdCL6Y=</SignatureValue>
+  </Signature>
+</license>
